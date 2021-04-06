@@ -7,7 +7,7 @@ python3 -m venv myapp
 # Activate the environment
 cd myapp/
 
-cd Source
+cd Scripts
 
 activate.bat
 
